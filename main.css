@@ -1,0 +1,23 @@
+
+.clock{
+    background-color: black;
+    width: 600px;
+    color: greenyellow;
+    margin-left: 400px;
+    text-align: center;
+    border-radius: 50px;
+}
+/* .time{
+    margin: 25px;
+    padding: 2px;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+}
+.date{
+    margin: 25px;
+    padding: 2px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+} */
